@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "March 1st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Mesyuarat di Masjid",
+      "day": "March 1st at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "March 1st at 11:am",
+      "reminder": true
+    },
+    {
+      "text": "Suka",
+      "day": "Jumaat petang",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
